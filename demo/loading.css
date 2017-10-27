@@ -1293,7 +1293,7 @@ html, body {
 	background: #fff;
 	position: absolute;
 	border-radius: 50%;
-	left: 30px;
+	left: 35px;
 	-webkit-transform-origin: 0 35px;
 	-webkit-animation: loader30 1s infinite linear;
 }
